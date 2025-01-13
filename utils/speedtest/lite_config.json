@@ -5,7 +5,7 @@
     "sortMethod":"rspeed",
     "concurrency":1024,
     "testMode":2,
-    "subscription":"https://github.com/qjlxg/worker/raw/refs/heads/master/spd/sub_merge_base64.txt",
+    "subscription":"",
     "timeout":5,
     "language":"en",
     "fontSize":24,
