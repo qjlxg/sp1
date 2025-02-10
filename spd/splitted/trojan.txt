@@ -7,6 +7,7 @@ trojan://257883ae-ceb5-495b-9997-f8807b300a6c@137.184.171.113:1615?security=tls&
 trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.224.58.74:1212?security=tls&sni=stackoverflow.com#%F0%9F%87%BA%F0%9F%87%B8US-18.224.58.74-3091
 trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@52.14.124.200:1212?security=tls&sni=stackoverflow.com#%F0%9F%87%BA%F0%9F%87%B8US-52.14.124.200-3092
 trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.22.242.57:1212?security=tls&sni=stackoverflow.com#%F0%9F%87%BA%F0%9F%87%B8US-3.22.242.57-3093
+trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.89.27.233:1212?security=tls&sni=stackoverflow.com#%F0%9F%87%BA%F0%9F%87%B8US-35.89.27.233-3094
 trojan://telegram-id-directvpn@3.133.45.94:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.133.45.94-3095
 trojan://bcabaca-caba-acba-abcd-acbcbbacacab@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3117
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.68.143-0647
@@ -59,7 +60,6 @@ trojan://SSorg@18.171.236.219:8443?security=tls&sni=sstjj.esslh.filegear-sg.me#%
 trojan://SSorg@18.182.63.216:443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP-18.182.63.216-0315
 trojan://SSorg@47.238.136.235:443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%AD%F0%9F%87%B0HK-47.238.136.235-0314
 trojan://SSorg@8.210.171.28:443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-8.210.171.28-0313
-trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.89.27.233:1212?security=tls&sni=stackoverflow.com#%F0%9F%87%BA%F0%9F%87%B8US-35.89.27.233-3094
 trojan://fuck@42.236.73.72:443?security=tls&sni=www.zitian.cn#%F0%9F%87%A8%F0%9F%87%B3CN-42.236.73.72-0312
 trojan://JFchk1TxFG@13.39.244.105:1935?security=tls&sni=x1fr-amazon.devefun.net#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.244.105-0311
 trojan://9Bb6wjlTOA@93.189.94.159:1935?security=tls&sni=x14spain.devefun.net#%F0%9F%87%AA%F0%9F%87%B8ES-93.189.94.159-0310
