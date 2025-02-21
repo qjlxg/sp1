@@ -1,5 +1,4 @@
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-0596
-trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@13.229.70.80:20230?security=tls&sni=421421.xyz#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.70.80-6795
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-3084
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&sni=connectwithemployers.online#%F0%9F%87%B8%F0%9F%87%ACSG-139.59.119.143-5303
 trojan://trojan@104.21.3.52:443?security=tls&sni=test-a23.pages.dev#%F0%9F%8F%81RELAY-104.21.3.52-5203
@@ -44,7 +43,7 @@ trojan://SSorg@108.165.152.104:2053?security=tls&sni=sstjj.esslh.filegear-sg.me#
 trojan://SSorg@27.50.48.189:2083?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-27.50.48.189-0333
 trojan://SSorg@188.164.159.91:2083?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.91-0332
 trojan://SSorg@104.19.4.237:8443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-104.19.4.237-0331
-trojan://SSorg@154.197.64.166:2053?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.166-0330
+trojan://SSorg@27.50.49.207:443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-27.50.49.207-0329
 trojan://SSorg@172.67.172.63:2087?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-172.67.172.63-0328
 trojan://SSorg@154.197.64.189:2087?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.189-0327
 trojan://SSorg@92.53.190.161:2087?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-92.53.190.161-0326
@@ -69,7 +68,7 @@ trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sn
 trojan://vzhXXZVw@36.150.215.220:48544?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.220-0289
 trojan://Oe5CMj3tiO@3.127.116.35:1935?security=tls&sni=x2ger-amazon.devefun.net#%F0%9F%87%A9%F0%9F%87%AADE-3.127.116.35-0287
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0254
-trojan://SSorg@27.50.49.207:443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-27.50.49.207-0329
+trojan://SSorg@154.197.64.166:2053?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.166-0330
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?security=tls&sni=tw01.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-57.182.76.20-0241
 trojan://vzhXXZVw@36.150.215.222:12524?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.222-0238
 trojan://vzhXXZVw@223.113.54.145:36442?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-223.113.54.145-0236
@@ -1795,6 +1794,7 @@ trojan://924745fa-8b63-458a-b6b5-1686e3701141@13.212.99.237:443?security=tls&sni
 trojan://fd910064-4cb9-46d5-b719-de39708d50f6@13.229.236.250:443?security=tls&sni=144-22-163-118.nhost.00cdn.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.236.250-6790
 trojan://924745fa-8b63-458a-b6b5-1686e3701141@3.0.57.90:443?security=tls&sni=13-251-128-188.nhost.00cdn.com#%F0%9F%87%B8%F0%9F%87%ACSG-3.0.57.90-6791
 trojan://fe3ac4d4-35a3-4d72-83cc-f4c511433ea5@13.212.2.177:443?security=tls&sni=144-22-163-118.nhost.00cdn.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.2.177-6792
+trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@13.229.70.80:20230?security=tls&sni=421421.xyz#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.70.80-6795
 trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@52.221.226.174:20230?security=tls&sni=421421.xyz#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.226.174-6797
 trojan://fe5c139b-e3c2-4029-a783-b7f836557f6d@54.255.66.141:443?security=tls&sni=fschk.fscloud123456789.com#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.66.141-6798
 trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@3.0.103.251:20230?security=tls&sni=421421.xyz#%F0%9F%87%B8%F0%9F%87%ACSG-3.0.103.251-6800
