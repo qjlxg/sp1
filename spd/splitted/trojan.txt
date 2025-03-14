@@ -67,7 +67,6 @@ trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sn
 trojan://vzhXXZVw@36.150.215.220:48544?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.220-0289
 trojan://Oe5CMj3tiO@3.127.116.35:1935?security=tls&sni=x2ger-amazon.devefun.net#%F0%9F%87%A9%F0%9F%87%AADE-3.127.116.35-0287
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0254
-trojan://blue2024@104.17.61.90:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-104.17.61.90-4309
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?security=tls&sni=tw01.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-57.182.76.20-0241
 trojan://vzhXXZVw@36.150.215.222:12524?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.222-0238
 trojan://vzhXXZVw@223.113.54.145:36442?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-223.113.54.145-0236
@@ -477,6 +476,7 @@ trojan://bpb-trojan@45.131.209.114:443?security=tls&sni=bpb.my79801.com#%F0%9F%8
 trojan://SSorg@108.165.152.225:2083?security=tls&sni=ssjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.225-4305
 trojan://bpb-trojan@45.80.110.224:443?security=tls&sni=bpb.my79801.com#%F0%9F%8F%81RELAY-45.80.110.224-4307
 trojan://SSorg@188.164.159.25:2053?security=tls&sni=ssjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.25-4308
+trojan://blue2024@104.17.61.90:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-104.17.61.90-4309
 trojan://blue2024@104.24.28.137:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-104.24.28.137-4310
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev#%F0%9F%8F%81RELAY-104.18.39.232-4311
 trojan://blue2024@162.159.0.198:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-162.159.0.198-4312
