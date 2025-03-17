@@ -1,4 +1,3 @@
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV#%F0%9F%8F%81RELAY-104.20.5.134-4663
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-3084
 trojan://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?security=tls&sni=spotify.com#%F0%9F%87%A9%F0%9F%87%AADE-156.67.30.77-3085
 trojan://fcdea945-f87c-4b34-9241-a33adc22af97@193.107.48.105:10750?security=tls&sni=netflow.yoooka.lol#%F0%9F%87%AE%F0%9F%87%B7IR-193.107.48.105-3089
@@ -67,7 +66,6 @@ trojan://e279c494-c426-443a-a034-a04516409242@naiu-jp.05vr9nyqg5.download:13012?
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sni=tw02.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0293
 trojan://vzhXXZVw@36.150.215.220:48544?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.220-0289
 trojan://Oe5CMj3tiO@3.127.116.35:1935?security=tls&sni=x2ger-amazon.devefun.net#%F0%9F%87%A9%F0%9F%87%AADE-3.127.116.35-0287
-trojan://your_password@13.244.104.87:443?security=tls&sni=aws-za-capetown-1.f1rocketnode.com#%F0%9F%87%BF%F0%9F%87%A6ZA-13.244.104.87-7833
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0254
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?security=tls&sni=tw01.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-57.182.76.20-0241
 trojan://vzhXXZVw@36.150.215.222:12524?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.222-0238
@@ -816,6 +814,7 @@ trojan://blue2024@162.159.44.205:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%8
 trojan://SSorg@37.157.192.61:9902?security=tls&sni=ssjj.esslh.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%BFCZ-37.157.192.61-4659
 trojan://bpb-trojan@172.67.153.198:2083?security=tls&sni=102.DJr999998.Eu.oRG#%F0%9F%8F%81RELAY-172.67.153.198-4660
 trojan://NISHIKUITAN111@172.67.67.15:443?security=tls#%F0%9F%8F%81RELAY-172.67.67.15-4662
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV#%F0%9F%8F%81RELAY-104.20.5.134-4663
 trojan://bpb-trojan@162.159.153.161:443?security=tls&sni=cf.090227.xyz#%F0%9F%8F%81RELAY-162.159.153.161-4664
 trojan://blue2024@104.129.166.244:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-104.129.166.244-4665
 trojan://NISHIKUITAN111@162.159.35.22:443?security=tls#%F0%9F%8F%81RELAY-162.159.35.22-4666
@@ -1907,5 +1906,6 @@ trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@103.173.254.205:443?security=tls#%
 trojan://057177db-f003-40dc-a14b-488e8ceefcaa@103.74.102.192:443?security=tls&sni=dl.kgvn.garenanow.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.74.102.192-7829
 trojan://f2d51ddb-1dea-414d-b179-3880e7a60ad6@103.77.214.241:443?security=tls&sni=lienquan.garena.vn#%F0%9F%87%BB%F0%9F%87%B3VN-103.77.214.241-7830
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?security=tls&sni=std1.loadingip.com#%F0%9F%87%BB%F0%9F%87%B3VN-160.30.21.105-7831
+trojan://your_password@13.244.104.87:443?security=tls&sni=aws-za-capetown-1.f1rocketnode.com#%F0%9F%87%BF%F0%9F%87%A6ZA-13.244.104.87-7833
 trojan://phXKwfrd@36.150.215.196:34188?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.196-8923
 trojan://315f744a-c705-3e58-96d9-35f0a8d3310c@gy.58n.net:24603?security=tls&sni=z259.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.170-8929
