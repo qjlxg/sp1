@@ -1,5 +1,4 @@
-trojan://opentunnel.net-rw8uuv207taq@172.232.4.213:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.232.4.213-6907
-trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.68.143-0647
+trojan://SSorg@172.67.204.145:2053?security=tls&sni=ssjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-172.67.204.145-4059
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-3084
 trojan://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?security=tls&sni=spotify.com#%F0%9F%87%A9%F0%9F%87%AADE-156.67.30.77-3085
 trojan://fcdea945-f87c-4b34-9241-a33adc22af97@193.107.48.105:10750?security=tls&sni=netflow.yoooka.lol#%F0%9F%87%AE%F0%9F%87%B7IR-193.107.48.105-3089
@@ -10,6 +9,7 @@ trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.22.242.57:1212?security=tls&sni=
 trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.89.27.233:1212?security=tls&sni=stackoverflow.com#%F0%9F%87%BA%F0%9F%87%B8US-35.89.27.233-3094
 trojan://telegram-id-directvpn@3.133.45.94:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.133.45.94-3095
 trojan://bcabaca-caba-acba-abcd-acbcbbacacab@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3117
+trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.68.143-0647
 trojan://telegram-id-privatevpns@34.252.21.244:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.252.21.244-0635
 trojan://telegram-id-privatevpns@18.196.39.57:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.196.39.57-0634
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com#%F0%9F%8F%81RELAY-23.227.38.11-0633
@@ -36,7 +36,6 @@ trojan://SSorg@104.19.103.190:2096?security=tls&sni=sstjj.esslh.filegear-sg.me#%
 trojan://SSorg@206.238.236.134:443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.134-0339
 trojan://SSorg@162.159.45.156:8443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.45.156-0338
 trojan://SSorg@188.164.159.241:2096?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.241-0337
-trojan://SSorg@45.136.199.132:443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%B4RO-45.136.199.132-0336
 trojan://SSorg@104.19.86.120:2096?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-104.19.86.120-0335
 trojan://SSorg@108.165.152.104:2053?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.104-0334
 trojan://SSorg@27.50.48.189:2083?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-27.50.48.189-0333
@@ -68,11 +67,11 @@ trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sn
 trojan://vzhXXZVw@36.150.215.220:48544?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.220-0289
 trojan://Oe5CMj3tiO@3.127.116.35:1935?security=tls&sni=x2ger-amazon.devefun.net#%F0%9F%87%A9%F0%9F%87%AADE-3.127.116.35-0287
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0254
+trojan://SSorg@45.136.199.132:443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%B4RO-45.136.199.132-0336
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?security=tls&sni=tw01.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-57.182.76.20-0241
 trojan://vzhXXZVw@36.150.215.222:12524?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.222-0238
 trojan://vzhXXZVw@223.113.54.145:36442?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-223.113.54.145-0236
 trojan://telegram-id-privatevpns@3.72.188.43:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.72.188.43-0230
-trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev#%F0%9F%8F%81RELAY-104.18.32.69-4521
 trojan://NISHIKUITAN111@104.16.130.216:443?security=tls#%F0%9F%8F%81RELAY-104.16.130.216-3885
 trojan://NISHIKUITAN111@185.170.166.26:443?security=tls#%F0%9F%8F%81RELAY-185.170.166.26-3887
 trojan://auto@172.64.35.202:443?security=tls&sni=trojanmz.pages.dev#%F0%9F%8F%81RELAY-172.64.35.202-3888
@@ -243,7 +242,6 @@ trojan://NISHIKUITAN222@190.93.247.234:443?security=tls&sni=im.ylks.xyz#%F0%9F%8
 trojan://b697183d-288b-40ab-98ae-8e3eb85f371c@185.146.173.69:443?security=tls&sni=uk1.trojanvpn.xyz#%F0%9F%8F%81RELAY-185.146.173.69-4056
 trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net#%F0%9F%8F%81RELAY-162.159.152.2-4057
 trojan://NISHIKUITAN111@172.67.225.134:443?security=tls#%F0%9F%8F%81RELAY-172.67.225.134-4058
-trojan://SSorg@172.67.204.145:2053?security=tls&sni=ssjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-172.67.204.145-4059
 trojan://blue2024@104.21.70.175:443?security=tls&sni=ha.lii2010.us.kg#%F0%9F%8F%81RELAY-104.21.70.175-4060
 trojan://blue2024@172.64.201.25:443?security=tls&sni=tb.promote.icu#%F0%9F%8F%81RELAY-172.64.201.25-4061
 trojan://NISHIKUITAN111@92.243.74.60:443?security=tls#%F0%9F%8F%81RELAY-92.243.74.60-4062
@@ -678,6 +676,7 @@ trojan://blue2024@104.16.239.254:443?security=tls&sni=hb.lii2010.us.kg#%F0%9F%8F
 trojan://bpb-trojan@104.16.149.244:2053?security=tls&sni=g1-21N.paGeS.deV#%F0%9F%8F%81RELAY-104.16.149.244-4518
 trojan://NISHIKUITAN111@141.101.121.30:443?security=tls#%F0%9F%8F%81RELAY-141.101.121.30-4519
 trojan://NISHIKUITAN111@104.17.0.118:443?security=tls#%F0%9F%8F%81RELAY-104.17.0.118-4520
+trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev#%F0%9F%8F%81RELAY-104.18.32.69-4521
 trojan://NISHIKUITAN111@45.159.216.191:443?security=tls&sni=zb.ylks.xyz#%F0%9F%8F%81RELAY-45.159.216.191-4522
 trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&sni=zb.ylks.xyz#%F0%9F%8F%81RELAY-69.48.218.10-4523
 trojan://bpb-trojan@162.159.152.35:443?security=tls&sni=cf.090227.xyz#%F0%9F%8F%81RELAY-162.159.152.35-4524
@@ -1823,6 +1822,7 @@ trojan://tune7jerky7HAYRICK@70.32.1.32:443?security=tls&sni=ap-northeast-1.opens
 trojan://your_password@34.222.204.128:443?security=tls&sni=aws-us-oregon-1.f1rocketnode.com#%F0%9F%87%BA%F0%9F%87%B8US-34.222.204.128-6900
 trojan://pjdnqv@34.222.204.128:443?security=tls&sni=aws-us-oregon-1.f1rocketnode.com#%F0%9F%87%BA%F0%9F%87%B8US-34.222.204.128-6902
 trojan://opentunnel.net-wd3dzt4j9yoy@172.232.25.148:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.232.25.148-6906
+trojan://opentunnel.net-rw8uuv207taq@172.232.4.213:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.232.4.213-6907
 trojan://opentunnel.net-wd3dzt4j9yoy@172.232.31.180:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.232.31.180-6908
 trojan://opentunnel.net-newdday@172.232.25.148:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.232.25.148-6911
 trojan://opentunnel.net-1l1tdr1hmcq7g32ndx7g@172.232.4.213:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.232.4.213-6914
