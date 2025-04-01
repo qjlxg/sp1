@@ -1,3 +1,5 @@
+trojan://NISHIKUITAN111@162.159.35.22:443?security=tls#%F0%9F%8F%81RELAY-162.159.35.22-4666
+trojan://vzhXXZVw@36.150.215.222:12524?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.222-0238
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-3084
 trojan://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?security=tls&sni=spotify.com#%F0%9F%87%A9%F0%9F%87%AADE-156.67.30.77-3085
 trojan://fcdea945-f87c-4b34-9241-a33adc22af97@193.107.48.105:10750?security=tls&sni=netflow.yoooka.lol#%F0%9F%87%AE%F0%9F%87%B7IR-193.107.48.105-3089
@@ -66,9 +68,8 @@ trojan://e279c494-c426-443a-a034-a04516409242@naiu-jp.05vr9nyqg5.download:13012?
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sni=tw02.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0293
 trojan://vzhXXZVw@36.150.215.220:48544?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.220-0289
 trojan://Oe5CMj3tiO@3.127.116.35:1935?security=tls&sni=x2ger-amazon.devefun.net#%F0%9F%87%A9%F0%9F%87%AADE-3.127.116.35-0287
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@23.150.248.54:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.54-7018
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0254
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?security=tls&sni=tw01.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-57.182.76.20-0241
-trojan://vzhXXZVw@36.150.215.222:12524?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.222-0238
 trojan://vzhXXZVw@223.113.54.145:36442?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-223.113.54.145-0236
 trojan://telegram-id-privatevpns@3.72.188.43:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.72.188.43-0230
 trojan://NISHIKUITAN111@104.16.130.216:443?security=tls#%F0%9F%8F%81RELAY-104.16.130.216-3885
@@ -817,7 +818,6 @@ trojan://NISHIKUITAN111@172.67.67.15:443?security=tls#%F0%9F%8F%81RELAY-172.67.6
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV#%F0%9F%8F%81RELAY-104.20.5.134-4663
 trojan://bpb-trojan@162.159.153.161:443?security=tls&sni=cf.090227.xyz#%F0%9F%8F%81RELAY-162.159.153.161-4664
 trojan://blue2024@104.129.166.244:443?security=tls&sni=ta.promote.icu#%F0%9F%8F%81RELAY-104.129.166.244-4665
-trojan://NISHIKUITAN111@162.159.35.22:443?security=tls#%F0%9F%8F%81RELAY-162.159.35.22-4666
 trojan://auto@104.16.21.118:443?security=tls&sni=trojanmz.pages.dev#%F0%9F%8F%81RELAY-104.16.21.118-4667
 trojan://blue2024@104.24.160.227:443?security=tls&sni=hb.lii2010.us.kg#%F0%9F%8F%81RELAY-104.24.160.227-4668
 trojan://blue2024@104.18.138.78:443?security=tls&sni=td.promote.icu#%F0%9F%8F%81RELAY-104.18.138.78-4669
@@ -1841,7 +1841,7 @@ trojan://ce8b8b30ebba45f2a38dd608b85e8628@23.150.248.50:443?security=tls&sni=job
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@23.150.248.54:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.54-6993
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-6995
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-7000
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0254
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@23.150.248.54:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.54-7018
 trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-7044
 trojan://e8105dfd24414268b6c7652c63731097@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-7065
 trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@104.237.153.228:443?security=tls&sni=206.237.5.220#%F0%9F%87%BA%F0%9F%87%B8US-104.237.153.228-7208
