@@ -45,6 +45,7 @@ trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=t
 trojan://7daf833c-37b9-4afc-8495-96590f03f781@120.232.217.96:21332?security=tls&sni=120.232.217.96#%F0%9F%87%A8%F0%9F%87%B3CN-120.232.217.96-0376
 trojan://SSorg@154.197.64.248:8443?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.248-0381
 trojan://SSorg@108.165.152.29:2096?security=tls&sni=sstjj.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.29-0383
+trojan://9Bb6wjlTOA@93.189.94.159:1935?security=tls&sni=x14spain.devefun.net#%F0%9F%87%AA%F0%9F%87%B8ES-93.189.94.159-0310
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-0596
 trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?security=tls&sni=channel.v2bamdad.tech#%F0%9F%8F%81RELAY-172.67.132.6-0623
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com#%F0%9F%8F%81RELAY-23.227.38.11-0633
@@ -60,7 +61,6 @@ trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@52.14.124.200:1212?security=tls&sn
 trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.22.242.57:1212?security=tls&sni=stackoverflow.com#%F0%9F%87%BA%F0%9F%87%B8US-3.22.242.57-3093
 trojan://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.89.27.233:1212?security=tls&sni=stackoverflow.com#%F0%9F%87%BA%F0%9F%87%B8US-35.89.27.233-3094
 trojan://telegram-id-directvpn@3.133.45.94:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.133.45.94-3095
-trojan://9Bb6wjlTOA@93.189.94.159:1935?security=tls&sni=x14spain.devefun.net#%F0%9F%87%AA%F0%9F%87%B8ES-93.189.94.159-0310
 trojan://bcabaca-caba-acba-abcd-acbcbbacacab@127.0.0.1:1080?security=tls#%F0%9F%8F%81RELAY-127.0.0.1-3117
 trojan://e279c494-c426-443a-a034-a04516409242@naiu-jp.05vr9nyqg5.download:13012?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.4-0294
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sni=tw02.trojanyyds.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-74.226.136.204-0293
